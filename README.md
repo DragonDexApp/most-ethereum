@@ -1,4 +1,4 @@
-# perp-arbitrageur
+# Dragon Dex App
 
 
 Since Dragon Dex runs on xDai, you can use this bot entirely without paying gas fees on Ethereum. Gas fees on xDai are very low (1 Gwei).
